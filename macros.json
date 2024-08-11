@@ -1,0 +1,260 @@
+{
+    "macros": [
+        {
+            "name": "Test",
+            "repeatFor": -1,
+            "actions": [
+                {
+                    "action": "hold",
+                    "key": "g",
+                    "time": 12.0
+                }
+            ]
+        },
+        {
+            "name": "gfaw",
+            "repeatFor": -1,
+            "actions": [
+                {
+                    "action": "hold",
+                    "key": "2",
+                    "keytwo": "b",
+                    "time": 2.0
+                }
+            ]
+        },
+        {
+            "name": "ggg",
+            "repeatFor": -1,
+            "actions": [
+                {
+                    "action": "hold",
+                    "key": "f",
+                    "keytwo": "b",
+                    "time": 2.0
+                }
+            ]
+        },
+        {
+            "name": "gwag",
+            "repeatFor": -1,
+            "actions": [
+                {
+                    "action": "hold",
+                    "key": "b",
+                    "keytwo": "e",
+                    "time": 1.0
+                }
+            ]
+        },
+        {
+            "name": "WTF",
+            "repeatFor": -1,
+            "actions": [
+                {
+                    "action": "hold",
+                    "key": "d",
+                    "keytwo": "g",
+                    "time": 2.0
+                }
+            ]
+        },
+        {
+            "name": "pls work 2",
+            "repeatFor": -1,
+            "actions": [
+                {
+                    "action": "hold",
+                    "key": "g",
+                    "keytwo": "b",
+                    "time": 1.0
+                }
+            ]
+        },
+        {
+            "name": "pls work 3",
+            "repeatFor": -1,
+            "actions": [
+                {
+                    "action": "hold",
+                    "key": "a",
+                    "time": 1.0
+                },
+                {
+                    "action": "hold",
+                    "key": "a",
+                    "time": 0.0
+                },
+                {
+                    "action": "hold",
+                    "key": "1",
+                    "keytwo": "f",
+                    "time": 1.0
+                },
+                {
+                    "action": "hold",
+                    "key": "a",
+                    "keytwo": "a",
+                    "time": 0.0
+                }
+            ]
+        },
+        {
+            "name": "plsss",
+            "repeatFor": -1,
+            "actions": [
+                {
+                    "action": "hold",
+                    "key": "g",
+                    "time": 1.0
+                },
+                {
+                    "action": "hold",
+                    "key": "a",
+                    "time": 0.0
+                }
+            ]
+        },
+        {
+            "name": "fawfafwfaf",
+            "repeatFor": 2,
+            "actions": [
+                {
+                    "action": "hold",
+                    "key": "a",
+                    "time": 1.0
+                },
+                {
+                    "action": "hold",
+                    "key": "b",
+                    "keytwo": null,
+                    "time": 0.0
+                },
+                {
+                    "action": "hold",
+                    "key": "c",
+                    "keytwo": null,
+                    "time": 0.0
+                }
+            ]
+        },
+        {
+            "name": "Lol",
+            "repeatFor": -1,
+            "actions": [
+                {
+                    "action": "sleep",
+                    "time": 1.0
+                },
+                {
+                    "action": "sleep",
+                    "time": 1.0
+                },
+                {
+                    "action": "hold",
+                    "key": "a",
+                    "time": 1.0
+                }
+            ]
+        },
+        {
+            "name": "new",
+            "repeatFor": -1,
+            "actions": [
+                {
+                    "action": "hold",
+                    "key": "b",
+                    "time": 1.0
+                },
+                {
+                    "action": "hold",
+                    "key": "b",
+                    "keytwo": "f",
+                    "time": 0.0
+                }
+            ]
+        },
+        {
+            "name": "waf",
+            "repeatFor": -1,
+            "actions": [
+                {
+                    "action": "hold",
+                    "key": "b",
+                    "time": 0.0
+                },
+                {
+                    "action": "sleep",
+                    "time": 1.0
+                },
+                {
+                    "action": "sleep",
+                    "time": 0.1
+                }
+            ]
+        },
+        {
+            "name": "newww",
+            "repeatFor": -1,
+            "actions": [
+                {
+                    "action": "hold",
+                    "key": "b",
+                    "time": 1.0
+                },
+                {
+                    "action": "hold",
+                    "key": "b",
+                    "keytwo": "a",
+                    "time": 1.0
+                },
+                {
+                    "action": "hold",
+                    "key": "a",
+                    "keytwo": "b",
+                    "time": 1.0
+                }
+            ]
+        },
+        {
+            "name": "g",
+            "repeatFor": -1,
+            "actions": [
+                {
+                    "action": "hold",
+                    "key": "a",
+                    "keytwo": "b",
+                    "time": 1.0
+                }
+            ]
+        },
+        {
+            "name": "bb",
+            "repeatFor": -1,
+            "actions": [
+                {
+                    "action": "hold",
+                    "key": "a",
+                    "keytwo": "b",
+                    "time": 1.0
+                }
+            ]
+        },
+        {
+            "name": "a",
+            "repeatFor": -1,
+            "actions": [
+                {
+                    "action": "hold",
+                    "key": "b",
+                    "keytwo": "1",
+                    "time": 1.0
+                }
+            ]
+        }
+    ],
+    "keyBinds": {
+        "Start": "F8",
+        "Stop": "F9"
+    }
+}
